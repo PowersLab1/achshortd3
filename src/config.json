@@ -1,6 +1,6 @@
 {
   "taskVersion": "1.0.0",
-  "taskName": "ach_short_t_3",
+  "taskName": "ach_task_short_psychedelic4",
   "debug": false,
   "awsLambda": {
     "saveTaskData": {
