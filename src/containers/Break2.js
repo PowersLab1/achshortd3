@@ -44,6 +44,7 @@ class Break2 extends Component {
                 <br /><br /> Press <b> "Q"/YES </b> if you <b> DO </b> hear a tone.
                 <br /><br /> Press <b> "E"/NO </b> if you <b> DO NOT </b> hear a tone.
                 <br /><br /> Please respond as <b> QUICKLY </b> and as <b> ACCURATELY </b> as you <b> POSSIBLY CAN </b>
+                <br /><br /> Please focus your eyes on the <b>cross in the middle </b>
                 <br /><br /><br /> PRESS "Q"/YES TO CONTINUE WITH THE NEXT PART
 
               </p>

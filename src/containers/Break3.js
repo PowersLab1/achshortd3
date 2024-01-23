@@ -42,6 +42,7 @@ class Break3 extends Component {
                 <br /><br /> Take a quick break. One more to go!
                 <br /><br /> Remember: Continue to listen carefully and do the best you can.
                 <br /><br /> The task will continue to be difficult, but it is okay to guess and it is okay to be uncertain.
+                <br /><br /> Please focus your eyes on the <b>cross in the middle </b>
                 <br /><br /> Press <b> "Q"/YES </b> if you <b> DO </b> hear a tone.
                 <br /><br /> Press <b> "E"/NO </b> if you <b> DO NOT </b> hear a tone.
                 <br /><br /> Please respond as <b> QUICKLY </b> and as <b> ACCURATELY </b> as you <b> POSSIBLY CAN </b>

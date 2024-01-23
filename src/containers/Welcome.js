@@ -69,7 +69,7 @@ class Welcome extends Component {
       // If we already sent out data, we're done.
       return <Redirect to="/ThankYou" />
     } else if (this.state.continue === true){
-      return <Redirect to="/Instructions" />
+      return <Redirect to="/VolumeCalibrationInstructions" />
     }
 
     return (
@@ -84,6 +84,7 @@ class Welcome extends Component {
             <br /><br />  <font size="+2"> <b> 'Q' key for 'YES I HEAR IT'</b> or <b> 'E' key for "NO I DO NOT'</b> </font>
             <br /><br /><br /><br /> Sometimes it may be difficult to answer, but if you do not know, please make your best guess.
             <br /><br /><br /><br /> Please keep your volume (including headphones) and screen brightness at maximum level throughout the experiment.
+            <br /><br /> Please focus your eyes on the <b>cross in the middle </b>
             <br /><br /><br /><br /> PRESS the <b> YES I HEAR IT / 'Q' key </b> to CONTINUE
 
           </p>

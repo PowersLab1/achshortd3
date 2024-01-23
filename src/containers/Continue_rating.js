@@ -46,6 +46,7 @@ class Continue_rating extends Component {
               <br /><br />  Sometimes it might be difficult to answer, but if you do not know, please guess.
               <br /><br />  For this first task, you will not be asked to rate your confidence so just quickly press
               <br /><br />  and release the button as soon as the screen flashes with the stripes.
+              <br /><br /> Please focus your eyes on the <b>cross in the middle </b>
               <br /><br /> Press  <font size="+2">  <b> "Q"/YES </b> </font> if you <b> DO </b>hear the tone.
               <br /><br /> Press <font size="+2"> <b> "E"/NO </b> </font> if you <b> DO NOT </b> hear the tone.
               <br /><br /> Please respond as <b> QUICKLY </b> and as <b> ACCURATELY </b> as you <b> POSSIBLY CAN </b>
